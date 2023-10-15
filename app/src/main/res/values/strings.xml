@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fragment_Active</string>
+    <string name="action_setting">Setting</string>
+    <string name="hello_world">Hello_World!</string>
+    <string-array name="title">
+        <item>Activity</item>
+        <item>Process</item>
+        <item>Name</item>
+        <item>Preference</item>
+    </string-array>
+    <string-array name="Discription">
+        <item>Activity HI my name is Himanshu</item>
+        <item>Process He is a good boy. </item>
+        <item>Name</item>
+        <item>Preference AJHVSBHFBSDVFZHHT^t^rr%^ryhgrfGHYT87787tt78t8t8t^^%^%^876</item>
+    </string-array>
+</resources>
